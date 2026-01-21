@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "echo No build step needed for static site"
+  },
   "devDependencies": {
     "@azure/static-web-apps-cli": "^2.0.7"
   }
